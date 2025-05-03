@@ -68,8 +68,7 @@ This personal project is built to explore and analyze loan default patterns from
 - Default rates across employment categories and yearly trend
 - Age-wise analysis of average loan amount
 
-**![Loan Default Overview![Screenshot 2025-05-02 225251](![Image](https://github.com/user-attachments/assets/093a366f-db5b-42a8-84d4-4317bb8333ef))
- Page]()**
+**![Loan Default Overview Page](![Image](https://github.com/user-attachments/assets/dc192f89-9690-4482-92da-c7d770e58fb1))**
 
 ---
 
