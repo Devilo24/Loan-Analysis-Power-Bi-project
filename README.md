@@ -76,7 +76,7 @@ This personal project is built to explore and analyze loan default patterns from
 - Median and average loan amounts by credit score and marital status
 - Loan segmentation by dependents, mortgage status, and education level
 
-**![Applicant Demographics Page](path/to/image2.png)**
+![Image](https://github.com/user-attachments/assets/38d601ac-e96d-44b0-82f4-1ac5ab9d97b7)
 
 ---
 
@@ -84,7 +84,7 @@ This personal project is built to explore and analyze loan default patterns from
 - YOY changes in loan disbursal and default behavior
 - Income-employment-credit segmentation using Sankey and treemap visuals
 
-**![Financial Risk Metrics Page](path/to/image3.png)**
+![Image](https://github.com/user-attachments/assets/207f5aee-8f88-4832-b812-033486397c31)
 
 ---
 
