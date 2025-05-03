@@ -68,7 +68,7 @@ This personal project is built to explore and analyze loan default patterns from
 - Default rates across employment categories and yearly trend
 - Age-wise analysis of average loan amount
 
-**![Loan Default Overview Page](![Image](https://github.com/user-attachments/assets/dc192f89-9690-4482-92da-c7d770e58fb1))**
+![Image](https://github.com/user-attachments/assets/dc192f89-9690-4482-92da-c7d770e58fb1)
 
 ---
 
@@ -101,3 +101,4 @@ This personal project is built to explore and analyze loan default patterns from
 
 **Karandeep Singh**  
 [LinkedIn](https://linkedin.com/in/karandeep-singh-concordia)  
+[GitHub](https://github.com/Devilo24)
